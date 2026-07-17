@@ -23,6 +23,7 @@ markers:
   - {type: indent, offset: 3, content: 　, id: KR2k0035_krp_050-bkkind2}
   - {type: substitution, offset: 4, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 6, content: (, id: KR2k0035_krp_050-bkkpn1}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR2k0035_krp_050-bkkpn2}
   - {type: substitution, offset: 9, original: 㕔, replacement: 廳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-1659}}
   - {type: punctuation, offset: 10, content: ), id: KR2k0035_krp_050-bkkpn3}
@@ -85,6 +86,7 @@ markers:
   - {type: substitution, offset: 170, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16309}}
   - {type: punctuation, offset: 178, content: (, id: KR2k0035_krp_050-bkkpn4}
   - {type: substitution, offset: 178, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
+  - {type: voice, offset: 178, length: 20, name: note, id: n2}
   - {type: punctuation, offset: 181, content: /, id: KR2k0035_krp_050-bkkpn5}
   - {type: substitution, offset: 181, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
   - {type: punctuation, offset: 184, content: ), id: KR2k0035_krp_050-bkkpn6}
@@ -1820,4 +1822,4 @@ markers:
 
       ', id: KR2k0035_krp_050-bkkkrnewl304}
   back: []
-hash: sha256:5802a0d1052b4b1a414bec4c73efe7f709f9e0e936cf9c052d98dacd37f739bf
+hash: sha256:6e9e8d6ed16ce8bc15b24910f65a6722cedf48368e01b4b9b702eb41eab298c6
